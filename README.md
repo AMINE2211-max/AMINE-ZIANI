@@ -162,7 +162,7 @@ the report that makes it fixable.
 ## 📊 STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMINE2211-max&show_icons=true&hide_border=true&bg_color=0a0820&title_color=22e5ff&icon_color=ff5fae&text_color=dff7ff&ring_color=8b5cff" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMINE2211-max&custom_title=Amine%20Ziani%20%C2%B7%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0a0820&title_color=22e5ff&icon_color=ff5fae&text_color=dff7ff&ring_color=8b5cff" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMINE2211-max&layout=compact&hide_border=true&langs_count=8&bg_color=0a0820&title_color=22e5ff&text_color=dff7ff&icon_color=ff5fae" alt="Top languages"/>
 </p>
 
