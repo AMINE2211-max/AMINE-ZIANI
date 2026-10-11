@@ -127,7 +127,7 @@
     <text x="82" y="234" fill="#39f0b0">HTB OMNISCIENT</text>
     <text x="210" y="234" fill="#ffcf6b">#1 MOROCCO</text>
     <text x="318" y="234" fill="#22e5ff">TOP 10 GLOBAL</text>
-    <text x="440" y="234" fill="#ff5fae">14 PRO LABS</text>
+    <text x="440" y="234" fill="#ff5fae">13 PRO LABS</text>
   </g>
   <rect x="64" y="244" height="2.5" rx="1" fill="url(#title)"><animate attributeName="width" values="0;440;440" keyTimes="0;0.6;1" dur="3s" fill="freeze"/></rect>
 

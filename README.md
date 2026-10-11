@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/🥇_HTB-OMNISCIENT-0a0820?style=for-the-badge&labelColor=1a0b2e&color=9fef00" alt="omniscient"/>
   <img src="https://img.shields.io/badge/%231-MOROCCO-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ffcf6b" alt="#1 morocco"/>
   <img src="https://img.shields.io/badge/TOP_10-GLOBAL-0a0820?style=for-the-badge&labelColor=1a0b2e&color=22e5ff" alt="top 10"/>
-  <img src="https://img.shields.io/badge/PRO_LABS-14-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="14 pro labs"/>
+  <img src="https://img.shields.io/badge/PRO_LABS-13-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="13 pro labs"/>
   <img src="https://img.shields.io/badge/CERTS-9-0a0820?style=for-the-badge&labelColor=1a0b2e&color=8b5cff" alt="9 certs"/>
 </p>
 
@@ -34,7 +34,7 @@ the report that makes it fixable.
 
   callsign   AMINE ZIANI
   rank       Hack The Box · OMNISCIENT · #1 Morocco · Top 10 Global
-  pro labs   14 completed (AD forests · multi-host pivot · enterprise compromise)
+  pro labs   13 completed (AD forests · multi-host pivot · enterprise compromise)
   arena      Active Directory · Web/API · Network · Exploit Dev
   rule       authorized engagements only
 ```
@@ -99,11 +99,15 @@ the report that makes it fixable.
   <img src="https://img.shields.io/badge/eCPPTv3-INE-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="eCPPTv3"/>
 </p>
 
+<p align="center">
+  <a href="https://www.credential.net/profile/amineziani293969/wallet"><img src="https://img.shields.io/badge/🔎_VIEW_VERIFIED_CREDENTIALS-credential.net-0a0820?style=for-the-badge&labelColor=0a0820&color=9fef00" alt="verified credentials"/></a>
+</p>
+
 ---
 
 ## 🧪 HACK THE BOX — PRO LABS
 
-> **14 completed** — advanced AD-forest exploitation, multi-host pivoting, enterprise compromise & web chains.
+> **13 completed** — advanced AD-forest exploitation, multi-host pivoting, enterprise compromise & web chains.
 
 <p align="center">
   <img src="https://img.shields.io/badge/APTLabs-0a0820?style=flat-square&labelColor=0a0820&color=ff2e55" alt="APTLabs"/>
@@ -115,7 +119,6 @@ the report that makes it fixable.
   <img src="https://img.shields.io/badge/Odyssey-0a0820?style=flat-square&labelColor=0a0820&color=ffcf6b" alt="Odyssey"/>
   <img src="https://img.shields.io/badge/P.O.O-0a0820?style=flat-square&labelColor=0a0820&color=22e5ff" alt="POO"/>
   <br/>
-  <img src="https://img.shields.io/badge/CAPE-0a0820?style=flat-square&labelColor=0a0820&color=9fef00" alt="CAPE"/>
   <img src="https://img.shields.io/badge/Mythical-0a0820?style=flat-square&labelColor=0a0820&color=ff5fae" alt="Mythical"/>
   <img src="https://img.shields.io/badge/Puppet-0a0820?style=flat-square&labelColor=0a0820&color=8b5cff" alt="Puppet"/>
   <img src="https://img.shields.io/badge/Solar-0a0820?style=flat-square&labelColor=0a0820&color=ffcf6b" alt="Solar"/>
@@ -184,7 +187,7 @@ the report that makes it fixable.
 
 <p align="center">
   <a href="https://amine2211-max.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-amine2211--max.github.io-0a0820?style=for-the-badge&labelColor=0a0820&color=ff5fae" alt="portfolio"/></a>
-  <a href="https://linkedin.com/in/amine-ziani"><img src="https://img.shields.io/badge/LinkedIn-amine--ziani-0a0820?style=for-the-badge&logo=linkedin&logoColor=22e5ff&labelColor=0a0820" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/amine-ziani-828886278"><img src="https://img.shields.io/badge/LinkedIn-amine--ziani-0a0820?style=for-the-badge&logo=linkedin&logoColor=22e5ff&labelColor=0a0820" alt="linkedin"/></a>
   <a href="mailto:ziani3618@gmail.com"><img src="https://img.shields.io/badge/Email-ziani3618@gmail.com-0a0820?style=for-the-badge&logo=gmail&logoColor=ff5fae&labelColor=0a0820" alt="email"/></a>
   <a href="https://github.com/AMINE2211-max"><img src="https://img.shields.io/badge/GitHub-@AMINE2211--max-0a0820?style=for-the-badge&logo=github&logoColor=9fef00&labelColor=0a0820" alt="github"/></a>
 </p>
