@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/🥇_HTB-OMNISCIENT-0a0820?style=for-the-badge&labelColor=1a0b2e&color=9fef00" alt="omniscient"/>
   <img src="https://img.shields.io/badge/%231-MOROCCO-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ffcf6b" alt="#1 morocco"/>
   <img src="https://img.shields.io/badge/TOP_10-GLOBAL-0a0820?style=for-the-badge&labelColor=1a0b2e&color=22e5ff" alt="top 10"/>
-  <img src="https://img.shields.io/badge/PRO_LABS-13-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="13 pro labs"/>
+  <img src="https://img.shields.io/badge/PRO_LABS-14-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="14 pro labs"/>
   <img src="https://img.shields.io/badge/CERTS-9-0a0820?style=for-the-badge&labelColor=1a0b2e&color=8b5cff" alt="9 certs"/>
 </p>
 
@@ -34,7 +34,7 @@ the report that makes it fixable.
 
   callsign   AMINE ZIANI
   rank       Hack The Box · OMNISCIENT · #1 Morocco · Top 10 Global
-  pro labs   13 completed (AD forests · multi-host pivot · enterprise compromise)
+  pro labs   14 completed (AD forests · multi-host pivot · enterprise compromise)
   arena      Active Directory · Web/API · Network · Exploit Dev
   rule       authorized engagements only
 ```
@@ -107,7 +107,7 @@ the report that makes it fixable.
 
 ## 🧪 HACK THE BOX — PRO LABS
 
-> **13 completed** — advanced AD-forest exploitation, multi-host pivoting, enterprise compromise & web chains.
+> **14 completed** — advanced AD-forest exploitation, multi-host pivoting, enterprise compromise & web chains.
 
 <p align="center">
   <img src="https://img.shields.io/badge/APTLabs-0a0820?style=flat-square&labelColor=0a0820&color=ff2e55" alt="APTLabs"/>
@@ -118,6 +118,7 @@ the report that makes it fixable.
   <img src="https://img.shields.io/badge/Zephyr-0a0820?style=flat-square&labelColor=0a0820&color=9fef00" alt="Zephyr"/>
   <img src="https://img.shields.io/badge/Odyssey-0a0820?style=flat-square&labelColor=0a0820&color=ffcf6b" alt="Odyssey"/>
   <img src="https://img.shields.io/badge/P.O.O-0a0820?style=flat-square&labelColor=0a0820&color=22e5ff" alt="POO"/>
+  <img src="https://img.shields.io/badge/Xen-0a0820?style=flat-square&labelColor=0a0820&color=8b5cff" alt="Xen"/>
   <br/>
   <img src="https://img.shields.io/badge/Mythical-0a0820?style=flat-square&labelColor=0a0820&color=ff5fae" alt="Mythical"/>
   <img src="https://img.shields.io/badge/Puppet-0a0820?style=flat-square&labelColor=0a0820&color=8b5cff" alt="Puppet"/>
