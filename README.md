@@ -28,9 +28,9 @@
 ```text
 ● ACCESS GRANTED
 Offensive Security Engineer — I break into enterprises so they can't be broken.
-Cybersecurity Engineering @ SUP MTI (Rabat). I lead full-scope penetration tests
-and red-team engagements: initial access → lateral movement → full domain compromise,
-mapped to MITRE ATT&CK, and I write the report that makes it fixable.
+I lead full-scope penetration tests and red-team engagements: initial access →
+lateral movement → full domain compromise, mapped to MITRE ATT&CK, and I write
+the report that makes it fixable.
 
   callsign   AMINE ZIANI
   rank       Hack The Box · OMNISCIENT · #1 Morocco · Top 10 Global
@@ -183,6 +183,7 @@ mapped to MITRE ATT&CK, and I write the report that makes it fixable.
 ## 📮 CONTACT
 
 <p align="center">
+  <a href="https://amine2211-max.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-amine2211--max.github.io-0a0820?style=for-the-badge&labelColor=0a0820&color=ff5fae" alt="portfolio"/></a>
   <a href="https://linkedin.com/in/amine-ziani"><img src="https://img.shields.io/badge/LinkedIn-amine--ziani-0a0820?style=for-the-badge&logo=linkedin&logoColor=22e5ff&labelColor=0a0820" alt="linkedin"/></a>
   <a href="mailto:ziani3618@gmail.com"><img src="https://img.shields.io/badge/Email-ziani3618@gmail.com-0a0820?style=for-the-badge&logo=gmail&logoColor=ff5fae&labelColor=0a0820" alt="email"/></a>
   <a href="https://github.com/AMINE2211-max"><img src="https://img.shields.io/badge/GitHub-@AMINE2211--max-0a0820?style=for-the-badge&logo=github&logoColor=9fef00&labelColor=0a0820" alt="github"/></a>
