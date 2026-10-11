@@ -171,7 +171,7 @@ mapped to MITRE ATT&CK, and I write the report that makes it fixable.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AMINE2211-max/AMINE-ZIANI/output/snake-dark.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/AMINE2211-max/AMINE2211-max/output/snake-dark.svg" alt="contribution snake"/>
 </p>
 
 <p align="center">
