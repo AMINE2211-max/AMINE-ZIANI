@@ -167,7 +167,7 @@ the report that makes it fixable.
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AMINE2211-max&hide_border=true&background=0a0820&stroke=8b5cff&ring=22e5ff&fire=ff5fae&currStreakLabel=22e5ff&sideLabels=9a7fd0&dates=5a3f80&currStreakNum=dff7ff&sideNums=dff7ff" alt="Streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=AMINE2211-max&hide_border=true&background=0a0820&stroke=8b5cff&ring=22e5ff&fire=ff5fae&currStreakLabel=22e5ff&sideLabels=9a7fd0&dates=5a3f80&currStreakNum=dff7ff&sideNums=dff7ff" alt="Streak"/>
 </p>
 
 <p align="center">
