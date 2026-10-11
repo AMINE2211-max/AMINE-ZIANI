@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_HTB-OMNISCIENT-0a0820?style=for-the-badge&labelColor=1a0b2e&color=9fef00" alt="omniscient"/>
-  <img src="https://img.shields.io/badge/#1-MOROCCO-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ffcf6b" alt="#1 morocco"/>
+  <img src="https://img.shields.io/badge/%231-MOROCCO-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ffcf6b" alt="#1 morocco"/>
   <img src="https://img.shields.io/badge/TOP_10-GLOBAL-0a0820?style=for-the-badge&labelColor=1a0b2e&color=22e5ff" alt="top 10"/>
   <img src="https://img.shields.io/badge/PRO_LABS-14-0a0820?style=for-the-badge&labelColor=1a0b2e&color=ff5fae" alt="14 pro labs"/>
   <img src="https://img.shields.io/badge/CERTS-9-0a0820?style=for-the-badge&labelColor=1a0b2e&color=8b5cff" alt="9 certs"/>
