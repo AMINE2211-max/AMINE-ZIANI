@@ -171,10 +171,6 @@ the report that makes it fixable.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMINE2211-max&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AMINE2211-max/AMINE2211-max/output/snake-dark.svg" alt="contribution snake"/>
 </p>
 
